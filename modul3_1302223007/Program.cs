@@ -16,7 +16,7 @@ namespace modul3_1302223007
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new CalculatorApp1302223007());
         }
     }
 }

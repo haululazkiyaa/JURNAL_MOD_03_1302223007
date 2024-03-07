@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace modul3_1302223007
 {
-    public partial class Form1 : Form
+    public partial class CalculatorApp1302223007 : Form
     {
-        public Form1()
+        public CalculatorApp1302223007()
         {
             InitializeComponent();
         }
